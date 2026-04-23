@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "e:\\ai学习作品\\2026-4月-作业文件\\2026-4-20\\index.html"
+            "name": "Open portfolio.html",
+            "file": "e:\\ai学习作品\\2026-4月-作业文件\\2026-4-20\\portfolio.html"
         }
     ]
 }
